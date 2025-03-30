@@ -2,3 +2,5 @@
 videos/
 .idea/
 __pycache__/
+media
+.env
